@@ -62,7 +62,7 @@ The **Without Pre-Built Connectors** app showcases:
 
 ## Screenshots
 
-| Feature                     | Preview                                |
-|-----------------------------|----------------------------------------|
-| Recipe Search by Ingredient | *(Add screenshot here)*               |
-| Displaying Recipe Results   | *(Add screenshot here)*               |
+| Feature                     | Preview                                          |
+|-----------------------------|--------------------------------------------------|
+| Recipe Search by Ingredient | [Recipe Search](screenshots/recipe-search.png)              |
+| Displaying Recipe Results   | ![Recipe Details](screenshots/recipe-details.png)              |
