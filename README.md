@@ -1,1 +1,1 @@
-# PowerApps
+Welcome to the PowerApps repository! This repository contains various PowerApps projects that showcase different features, use cases, and integration techniques within PowerApps. Whether you are a beginner or an experienced developer, these sample apps will help you learn and explore the capabilities of PowerApps.
